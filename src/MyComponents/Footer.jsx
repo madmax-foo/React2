@@ -17,7 +17,7 @@ function FooterComponent() {
         </blockquote>
       </Card.Body>
     </Card>
-  );////
+  );/////
 }
 
 export default FooterComponent;
